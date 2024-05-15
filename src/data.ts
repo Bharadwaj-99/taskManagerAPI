@@ -1,4 +1,4 @@
-// src/data.ts
+
 import { Task } from './types';
 
 let tasks: Task[] = [];

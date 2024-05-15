@@ -1,4 +1,4 @@
-// src/types.ts
+
 export type TaskStatus = 'pending' | 'completed';
 
 export interface Task {
